@@ -1,9 +1,11 @@
-# WEB_Mili-Groupbuying-Comm_MiliCo ![badge](https://img.shields.io/badge/license-MIT-blue) ![badge](https://img.shields.io/badge/node-16.17.0-blue)
+# 작전모 마켓 JJM market ![badge](https://img.shields.io/badge/license-MIT-blue) ![badge](https://img.shields.io/badge/node-16.17.0-blue)
 
 군인들을 위한 공동구매 커뮤니티
 (Cobuying Community for ROK Soldiers)
 
-![Logo](https://raw.githubusercontent.com/osamhack2022/WEB_Mili-Groupbuying-Comm_MiliCo/main/src/assets/img/JJMicon.png)
+⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️CLICK Image to watch demo⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇
+[![Video Label](https://raw.githubusercontent.com/Changooo/project_JJMmarket/main/src/assets/img/JJMicon.png)](https://youtu.be/5jmIn_NXUI0)
+
 
 ## 프로젝트 소개 (Introduction)
 
@@ -48,7 +50,6 @@
 2. database table 이름 → 파스칼 표기법
 3. datbase column 등 → 스네이크 표기법
 
-<br/><br/>
 <br/><br/>
 
 ## 설치 안내 (Installation)
